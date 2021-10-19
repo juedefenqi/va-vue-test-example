@@ -1,7 +1,7 @@
 {
   "name": "va-vue-test-example",
-  "version": "1.0.0",
-  "description": "一个练习写插件的存储库",
+  "version": "1.0.1",
+  "description": "一个练习写插件的存储库1.0.1",
   "author": "liming <liming02@jiuqi.com.cn>",
   "private": false,
   "main": "src/components/index.js",
@@ -87,5 +87,14 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juedefenqi/va-vue-test-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juedefenqi/va-vue-test-example/issues"
+  },
+  "homepage": "https://github.com/juedefenqi/va-vue-test-example#readme"
 }

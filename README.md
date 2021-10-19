@@ -11,6 +11,10 @@
 # git remote add origin git@github.com:juedefenqi/vue-plug-object.git
 # git -u origin master  上传分支
 # install dependencies
+#npm config set registry https://www.npmjs.org  官方源
+#npm login   用户 姓名  邮箱
+#注: 如报 400 That email has already been registered 的话就换个其他未注册的邮箱
+#npm publish
 npm install
 
 # serve with hot reload at localhost:8080
