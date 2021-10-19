@@ -5,12 +5,12 @@
 ## Build Setup
 
 ``` bash
+# install dependencies
 # 初始项目却换指定库  cnpm config get registryhttps://registry.npm.taobao.org/
 # vue init webpack va-vue-test-example 创建项目
 # git init        git add .      git commit -m 'first commit '
 # git remote add origin git@github.com:juedefenqi/vue-plug-object.git
 # git -u origin master  上传分支
-# install dependencies
 #npm config set registry https://www.npmjs.org  官方源
 #npm login   用户 姓名  邮箱
 #注: 如报 400 That email has already been registered 的话就换个其他未注册的邮箱
