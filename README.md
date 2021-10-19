@@ -5,6 +5,11 @@
 ## Build Setup
 
 ``` bash
+# 初始项目却换指定库  cnpm config get registryhttps://registry.npm.taobao.org/
+# vue init webpack va-vue-test-example 创建项目
+# git init        git add .      git commit -m 'first commit '
+# git remote add origin git@github.com:juedefenqi/vue-plug-object.git
+# git -u origin master  上传分支
 # install dependencies
 npm install
 

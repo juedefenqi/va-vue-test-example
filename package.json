@@ -1,9 +1,13 @@
 {
   "name": "va-vue-test-example",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "一个练习写插件的存储库",
   "author": "liming <liming02@jiuqi.com.cn>",
-  "private": true,
+  "private": false,
+  "main": "src/components/index.js",
+  "files": [
+    "src/components"
+  ],
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
